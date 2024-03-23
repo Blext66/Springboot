@@ -1,7 +1,6 @@
 package com.tcna.primeraweb;
 
 import com.tcna.primeraweb.entities.Persona;
-import com.tcna.primeraweb.repository.PersonaRepository;
 import com.tcna.primeraweb.service.PersonaService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
